@@ -24,5 +24,4 @@ OCR App is an iOS application developed using **SwiftUI**, enabling users to ext
 ## 🚀 How to Run the App
 1. Clone the repository:
    ```bash
-   git clone:
-   https://github.com/Shazyy19/OCRapp.git
+   git clone https://github.com/Shazyy19/OCRapp.git
